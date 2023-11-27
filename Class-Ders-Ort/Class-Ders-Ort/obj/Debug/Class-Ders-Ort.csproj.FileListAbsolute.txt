@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Class-Ders-Ort\Class-Ders-Ort\bin\Debug\Class-Ders-Ort.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Class-Ders-Ort\Class-Ders-Ort\bin\Debug\Class-Ders-Ort.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Class-Ders-Ort\Class-Ders-Ort\bin\Debug\Class-Ders-Ort.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Class-Ders-Ort\Class-Ders-Ort\obj\Debug\Class-Ders-Ort.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Class-Ders-Ort\Class-Ders-Ort\obj\Debug\Class-Ders-Ort.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Class-Ders-Ort\Class-Ders-Ort\obj\Debug\Class_Ders_Ort.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Class-Ders-Ort\Class-Ders-Ort\obj\Debug\Class_Ders_Ort.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Class-Ders-Ort\Class-Ders-Ort\obj\Debug\Class-Ders-Ort.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Class-Ders-Ort\Class-Ders-Ort\obj\Debug\Class-Ders-Ort.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Class-Ders-Ort\Class-Ders-Ort\obj\Debug\Class-Ders-Ort.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\Class-Ders-Ort\Class-Ders-Ort\obj\Debug\Class-Ders-Ort.pdb
